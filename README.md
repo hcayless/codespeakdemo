@@ -1,4 +1,4 @@
-# codespeak
+# Codespeak Demo
 
 A Clojure library designed to visualize some ways of reading and parsing text. 
 
